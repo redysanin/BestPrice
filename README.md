@@ -49,7 +49,7 @@ Use Case:
  If we call function getBestPrice from originAirport ORD to destinationAirport SFO  it should give me result $70.0
  
  
- *Candidate can write jnuit to test their code
+ *Candidate can write junit to test their code
  
       
 		
