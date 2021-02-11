@@ -32,6 +32,7 @@ Use Case:
 		
 		
   Based on list of above flights. These are flight combination possible if i want to go from originAirport IAD to destinationAirport SFO 
+		  
 		  IAD-SFO -> $400
 		  
 		  IAD-JFK-SFO -> 180.5+185.0 = $365.5
@@ -46,5 +47,9 @@ Use Case:
  If we call function getBestPrice from originAirport IAD to destinationAirport SFO  it should give me result $260.0
  
  If we call function getBestPrice from originAirport ORD to destinationAirport SFO  it should give me result $70.0
+ 
+ 
+ *Candidate can write jnuit to test their code
+ 
       
 		
