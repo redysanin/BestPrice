@@ -1,8 +1,8 @@
 # BestPrice
 
-This have sample BextPrice java program. Which can run standalone.
+This have sample BestPrice java program. Which can run standalone.
 
-User need to implement getBestPrice function which will get some input and return best price for flights.
+Candidate need to implement getBestPrice function which will take input as FlightsList,OriginAirport,DestinationAirport and return best price from list of flights.
 
 
 Use Case:
