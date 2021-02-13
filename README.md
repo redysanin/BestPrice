@@ -8,6 +8,7 @@ Candidate need to implement getBestPrice function which will take input as Fligh
 Use Case:
 
   List of Flights
+  
 		Flight [originAirport=IAD, destinationAirport=SFO, price=$400.0, distance=3000 miles]
 		
 		Flight [originAirport=IAD, destinationAirport=JFK, price=$180.5, distance=1000 miles]
@@ -31,7 +32,7 @@ Use Case:
 		Flight [originAirport=IAD, destinationAirport=LHR, price=$700.0, distance=3500 miles]
 		
 		
-  Based on list of above flights. These are flight combination possible if i want to go from originAirport IAD to destinationAirport SFO 
+  Based on list of above flights. These are flight combination possible if i want to go from originAirport "IAD" to destinationAirport "SFO" 
 		  
 		  IAD-SFO -> $400
 		  
